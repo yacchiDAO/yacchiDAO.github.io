@@ -10,7 +10,7 @@
       </div>
       <div class="two-column-wrapper">
         <div class="two-column-image">
-          <img src="/icon.png" alt="">
+          <img src="icon.png" alt="">
         </div>
         <div class="two-column-desc">
           <p class="text">
@@ -154,7 +154,7 @@
       <div class="card-wrapper my-gallery">
         <figure class="card">
           <a href="https://pri-image-db.herokuapp.com/" data-size="980x668" class="card-image" target="_blank">
-            <img src="/pri.png" alt="" />
+            <img src="pri.png" alt="" />
           </a>
           <figcaption class="card-caption">
             <p class="card-caption-title">プリティーシリーズキャプ画像DB</p>
@@ -166,7 +166,7 @@
 
         <figure class="card">
           <a href="https://uectf-result.herokuapp.com/" data-size="980x668" class="card-image" target="_blank">
-            <img src="/uectf.png" alt="" />
+            <img src="uectf.png" alt="" />
           </a>
           <figcaption class="card-caption">
             <p class="card-caption-title">陸上部リザルトシステム</p>
@@ -178,7 +178,7 @@
 
         <figure class="card">
           <a href="https://twitter.com/PriImage" data-size="980x668" class="card-image" target="_blank">
-            <img src="/capture.png" alt="" />
+            <img src="capture.png" alt="" />
           </a>
           <figcaption class="card-caption">
             <p class="card-caption-title">キャプ画像bot</p>
@@ -188,7 +188,7 @@
 
         <figure class="card">
           <a href="https://twitter.com/pribb_bot" data-size="980x668" class="card-image">
-            <img src="/bb.png" alt="" />
+            <img src="bb.png" alt="" />
           </a>
           <figcaption class="card-caption">
             <p class="card-caption-title">BB動画bot</p>
@@ -200,7 +200,7 @@
 
         <figure class="card">
           <a href="https://ieeexplore.ieee.org/document/8991759" target="_blank" data-size="980x668" class="card-image">
-            <img src="/research.png" alt="" />
+            <img src="research.png" alt="" />
           </a>
           <figcaption class="card-caption">
             <p class="card-caption-title">Opportunistic Routing for Heterogeneous IoT Networks</p>
@@ -213,7 +213,7 @@
 
         <figure class="card">
           <a href="https://twitter.com/uectf/status/1240984944437944322?s=20" data-size="980x668" class="card-image" target="_blank">
-            <img src="/movie.png" alt="" />
+            <img src="movie.png" alt="" />
           </a>
           <figcaption class="card-caption">
             <p class="card-caption-title">電気通信大学陸上競技部紹介動画</p>
@@ -236,13 +236,13 @@
       <div class="contact-wrapper">
         <div class="contact-list">
           <ul>
-            <li><a href="https://twitter.com/yacchi_otaku" target="_blank"><img src="/twitter.png" alt=""><span
+            <li><a href="https://twitter.com/yacchi_otaku" target="_blank"><img src="twitter.png" alt=""><span
                   class="contact-list-desc">Twitter</span></a></li>
-            <li><a href="https://github.com/yacchiDAO" target="_blank"><img src="/github.png" alt=""><span
+            <li><a href="https://github.com/yacchiDAO" target="_blank"><img src="github.png" alt=""><span
                   class="contact-list-desc">github</span></a></li>
-            <li><a href="http://nishikino3.hatenablog.com/" target="_blank"><img src="/hatena.png" alt=""><span
+            <li><a href="http://nishikino3.hatenablog.com/" target="_blank"><img src="hatena.png" alt=""><span
                   class="contact-list-desc">はてなブログ</span></a></li>
-            <li><a href="https://qiita.com/protein_wasshoi" target="_blank"><img src="/qiita.png" alt=""><span
+            <li><a href="https://qiita.com/protein_wasshoi" target="_blank"><img src="qiita.png" alt=""><span
                   class="contact-list-desc">Qiita</span></a></li>
           </ul>
         </div>
