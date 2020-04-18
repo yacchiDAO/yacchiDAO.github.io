@@ -2,7 +2,7 @@
 // `DEPLOY_ENV` が `GH_PAGES` の場合のみ `router.base = '/<repository-name>/'` を追加する
 const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
   router: {
-    base: '/yacchidao.github.io/'
+    base: '/yacchi_portfolio/'
   }
 } : {}
 
@@ -19,7 +19,7 @@ export default {
       { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/yacchidao.github.io/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/yacchi_portfolio/favicon.ico' }
     ]
   },
   /*
