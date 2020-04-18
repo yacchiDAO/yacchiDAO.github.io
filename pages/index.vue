@@ -188,7 +188,7 @@
 
         <figure class="card">
           <a href="https://twitter.com/pribb_bot" data-size="980x668" class="card-image">
-            <img src="bb.png" alt="" />
+            <img src="/bb.png" alt="" />
           </a>
           <figcaption class="card-caption">
             <p class="card-caption-title">BB動画bot</p>
