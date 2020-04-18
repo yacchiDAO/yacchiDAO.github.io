@@ -58,5 +58,5 @@ export default {
     extend (config, ctx) {
     }
   },
-  routerBase
+  ...routerBase
 }
