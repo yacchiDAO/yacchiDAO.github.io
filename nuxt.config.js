@@ -16,7 +16,14 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
+      { property: 'og:url', content: 'https://yacchidao.github.io/yacchi_portfolio/' },
+      { property: 'og:title', content: process.env.npm_package_name || '' },
+      { property: 'og:image', content: '/yacchi_portfolio/favicon.ico' },
+      { property: 'og:description', content: 'やっちのポートフォリオサイトです' },
+      { hid: 'description', name: 'description', content: 'やっちのポートフォリオサイトです'  },
+      { name: 'twitter:card', content: 'summary' },
+      { name: 'twitter:site', content: '@yacchi_otaku' },
+      { property: 'og:description', content: 'やっちのポートフォリオサイトです' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/yacchi_portfolio/favicon.ico' }
