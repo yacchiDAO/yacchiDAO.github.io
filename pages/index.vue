@@ -52,7 +52,7 @@
             <div class="rating">
               <p class="rate rate4"></p>
             </div>
-            <p class="text">Railsを3年半インターンの業務で使用してきました。アプリのAPI・管理画面の実装や大規模プロジェクトでの使用経験あります。sintraでの開発経験もあります。簡単なスクリプトを組むときにも使用しています。Rspec, Rubocopなどの業務での使用経験あります。</p>
+            <p class="text">Railsを3年半インターンの業務で使用してきました。アプリのAPI・管理画面の実装や大規模プロジェクトでの使用経験あります。siniatraでの開発経験もあります。簡単なスクリプトを組むときにも使用しています。rspec, rubocopなどの業務での使用経験あります。</p>
           </div>
         </div>
         <div class="card">
@@ -159,7 +159,7 @@
           <figcaption class="card-caption">
             <p class="card-caption-title">プリティーシリーズキャプ画像DB</p>
             <p class="card-caption-info">アップロードしたプリティーシリーズのアニメのキャプ画像に対して作品・キャラ・セリフなどを紐付けて保存するデータベースです。heroku, Ruby on Rails, S3あたりをよしなに用いて実装しました。
-              <a href="http://nishikino3.hatenablog.com/entry/2019/07/25/163610">実装に関する記事です。</a>
+              <a href="http://nishikino3.hatenablog.com/entry/2019/07/25/163610">まとめた記事</a>
             </p>
           </figcaption>
         </figure>
@@ -193,7 +193,7 @@
           <figcaption class="card-caption">
             <p class="card-caption-title">BB動画bot</p>
             <p class="card-caption-info">定期的にニコニコAPIを用いて取得した特定のタグがついた動画情報をRedisに保持し、ランダムに動画の投稿を行うbotです。
-              <a href="https://qiita.com/protein_wasshoi/items/d8a00e709f2e1b9b5f2b">Qiitaの記事です。</a>
+              <a href="https://qiita.com/protein_wasshoi/items/d8a00e709f2e1b9b5f2b">まとめた記事</a>
             </p>
           </figcaption>
         </figure>
@@ -229,7 +229,7 @@
       <div class="section-title-block">
         <h2 class="section-title">CONTACT,SNS</h2>
         <p class="section-desc">
-          主な生息地です。お問合わせがある方は
+          主な生息地です。お問合わせがある方は下記フォームか
           twitterからご連絡をください。
         </p>
       </div>
@@ -246,6 +246,9 @@
                   class="contact-list-desc">Qiita</span></a></li>
           </ul>
         </div>
+      </div>
+      <div style="text-align:center">
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfsBvhqLwc7WMZ_9_o2Bo41GvbgcBnKSHTXWvwS0gEb-XsFLA/viewform?embedded=true" width="640" height="728" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
       </div>
     </div>
   </section>
