@@ -1,5 +1,7 @@
 # やっちのポートフォリオサイトです
 
+https://yacchidao.github.io/yacchi_portfolio/
+
 ## Build Setup
 
 ```bash
@@ -9,6 +11,7 @@ $ npm install
 $ npm run dev
 ```
 
+## Deploy
 ```deploy
 # push-dir packageをつかう
 $ npm install push-dir --save-dev
